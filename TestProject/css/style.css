@@ -1,0 +1,24 @@
+body { 
+  background: url(img/fon/04.jpg) no-repeat; 
+  background-size: 205%
+   }
+.card { 
+  background: url(img/cards/download.jpg) no-repeat;
+  background-size: 100%
+   }   
+.text-center {
+      padding: 10px;
+      margin: 30px
+}
+.container {
+  margin: center;
+  padding: 10px;
+}
+.card {
+  padding: 70px;
+  margin: 50px;
+}
+.h3 {
+  padding: 50px;
+} 
+/*Макс помоги спаси , style.css не подключается , все сделал . !
